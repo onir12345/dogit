@@ -1,2 +1,4 @@
 we r making a file om docker  
 installing git on docker n making a file and try to push ongithub tho
+we tool two line from docker .txt file which was on master branch
+now i modified this file on quality branch 
