@@ -1,0 +1,2 @@
+we r making a file om docker  
+installing git on docker n making a file and try to push ongithub tho
